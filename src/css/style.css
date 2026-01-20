@@ -322,7 +322,7 @@ main{
     width: 510px;
     padding: 0px;
     border-radius: 15px;
-    background-image: url(/src/assets/image.png);
+    background-image: url(../assets/image.png);
     background-size: cover;
     background-position: center;
     background-color: #1f4842;
@@ -367,8 +367,6 @@ main{
     border-radius: 100px;
     background-color: #ffffff;
     padding: 12px 18px;
-
-
 }
 
 .date span{
